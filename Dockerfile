@@ -5,6 +5,9 @@ LABEL maintainer="Alvis<alvisisme@gmail.com>"
 
 ENV LANG C.UTF-8
 
+RUN sudo apt-get update && \
+    sudo DEBIAN_FRONTEND=noninteractive apt-get install -y cmake g++
+
 # install on-my-zsh
 RUN sudo DEBIAN_FRONTEND=noninteractive apt-get install -y zsh && \
     git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh && \
