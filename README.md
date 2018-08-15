@@ -22,6 +22,8 @@ VIM命令模式下执行`:PlugInstall`完成插件安装
 
 * [插件管理 vim-plug](https://github.com/junegunn/vim-plug)
 * [目录树显示 NERDTree](https://github.com/scrooloose/nerdtree)
+* [代码补全 YouCompleteMe](https://github.com/valloric/youcompleteme)
+* [括号补全 delimitMate](https://github.com/Raimondi/delimitMate)
 
 ## 参考引用
 

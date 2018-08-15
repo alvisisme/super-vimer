@@ -5,6 +5,8 @@ call plug#begin('~/.vim/plugged')
 
 " Make sure you use single quotes
 Plug 'https://github.com/scrooloose/nerdtree.git'
+Plug 'valloric/youcompleteme'
+Plug 'raimondi/delimitmate'
 
 " Initialize plugin system
 call plug#end()
