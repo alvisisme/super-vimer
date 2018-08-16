@@ -1,11 +1,11 @@
-# vimrc-cpp
-VIM　C/C++　集成开发环境
+# Super VIMER
+VIM 集成开发环境
 
 ## 使用说明
 
 下载该工程　
 ```shell
-git clone https://github.com/alvisisme/vimrc-cpp.git ~/.vim_runtime
+git clone https://github.com/alvisisme/super-vimer.git ~/.vim_runtime
 ```
 
 安装脚本
