@@ -1,9 +1,5 @@
-# Super vimer 
+# Super VIMER
 VIM 集成开发环境
-
-## 工程首页
-
-[Super vimer](https://alvisisme.github.io/super-vimer/)
 
 ## 使用说明
 
