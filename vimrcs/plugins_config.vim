@@ -7,6 +7,8 @@ call plug#begin('~/.vim/plugged')
 Plug 'https://github.com/scrooloose/nerdtree.git'
 Plug 'valloric/youcompleteme'
 Plug 'raimondi/delimitmate'
+Plug 'Chiel92/vim-autoformat'
+Plug 'https://github.com/tpope/vim-surround'
 
 " Initialize plugin system
 call plug#end()

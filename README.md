@@ -28,6 +28,8 @@ VIM命令模式下执行`:PlugInstall`完成插件安装
 * [目录树显示 NERDTree](https://github.com/scrooloose/nerdtree)
 * [代码补全 YouCompleteMe](https://github.com/valloric/youcompleteme)
 * [括号补全 delimitMate](https://github.com/Raimondi/delimitMate)
+* [自动格式化 autoformat](https://github.com/chiel92/vim-autoformat)
+* [括号引号等快捷处理 vim-surround](https://github.com/tpope/vim-surround)
 
 ## 参考引用
 
