@@ -123,6 +123,10 @@ set lazyredraw
 " For regular expressions turn magic on
 set magic
 
+" 显示不可见字符
+set invlist 
+set listchars=tab:>-,trail:-
+
 " Show matching brackets when text indicator is over them
 set showmatch 
 " How many tenths of a second to blink when matching brackets
