@@ -1,4 +1,7 @@
-# Super vimer 
+# Super vimer
+
+> 工程集成到[oh-my-terminal](https://github.com/alvisisme/oh-my-terminal),本工程不再维护
+
 VIM 集成开发环境
 
 ## 工程首页
